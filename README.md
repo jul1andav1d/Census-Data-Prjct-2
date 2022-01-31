@@ -5,5 +5,5 @@ This will be a space to work on one of two datasets I will chose to do supervise
 https://www.kaggle.com/ruslankl/european-union-lgbt-survey-2012
 
 
-- For Dataset #2 'ACAPS COVID-19 Government Measures Dataset':  LICENSE AND Access Restrictions: Free to all
-https://data.humdata.org/dataset/acaps-covid19-government-measures-dataset
+- For Dataset #2 'Predicting income exceeds $50K/yr based on census data.' Dataset information can be found here:
+#https://archive.ics.uci.edu/ml/datasets/Adult
