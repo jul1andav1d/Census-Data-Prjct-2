@@ -11,7 +11,7 @@ https://archive.ics.uci.edu/ml/datasets/Adult
 
 # PROJECT 2 PART 2
 
-For this part of the project, I used the approved dataset I proposed and started cleaning and exploring the data set.  
+For this part of the project, I used the approved dataset from the ones I proposed before, and started cleaning and exploring the data set.
 
 
 # PROJECT 2 PART 3
