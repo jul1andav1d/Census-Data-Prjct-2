@@ -7,24 +7,24 @@ https://www.kaggle.com/ruslankl/european-union-lgbt-survey-2012
 
 
 - For Dataset #2 'Predicting income exceeds $50K/yr based on census data.' Dataset information can be found here:
-#https://archive.ics.uci.edu/ml/datasets/Adult
+https://archive.ics.uci.edu/ml/datasets/Adult
 
-#PROJECT 2 PART 2
+# PROJECT 2 PART 2
 
 For this part of the project, I used the approved dataset I proposed and started cleaning and exploring the data set.  
 
 
-#PROJECT 2 PART 3
+# PROJECT 2 PART 3
 
 The links below contain Presentation slides and video for this part of the project.
 
 I created an 8 min video presentation with slide show designed for a technical audience addressesing my data preparation and exploratory analysis for my selected data set. 
 (The census Data 1994)
 
-#Link to Slides:
+Link to Slides:
 
 https://drive.google.com/file/d/1KJif8Puc5gWkvUaW0djKuKHS1Qu6eEm2/view?usp=sharing
 
-#Link to Video:
+Link to Video:
 
 https://drive.google.com/file/d/1KJif8Puc5gWkvUaW0djKuKHS1Qu6eEm2/view?usp=sharing
