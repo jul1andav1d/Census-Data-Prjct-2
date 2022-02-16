@@ -1,6 +1,6 @@
 # Project-2
 This will be a space to work on one of these two datasets below. 
-One will be chosen to do supervised Machine Learning.
+One will be chosen to do supervised Machine Learning. After Choosing a Dataset, all work will be commited to Github, maybe using a different repository.
 
 - For Dataset #1 'European Union lesbian, gay, bisexual and transgender survey (2012)' LICENSE AND ACCESS RESTRICTIONS: Public Domain
 https://www.kaggle.com/ruslankl/european-union-lgbt-survey-2012
