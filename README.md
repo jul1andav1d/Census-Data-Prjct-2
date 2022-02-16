@@ -21,10 +21,10 @@ The links below contain Presentation slides and video for this part of the proje
 I created an 8 min video presentation with slide show designed for a technical audience addressesing my data preparation and exploratory analysis for my selected data set. 
 (The census Data 1994)
 
-Link to Slides:
+- Link to Slides:
 
 https://drive.google.com/file/d/1KJif8Puc5gWkvUaW0djKuKHS1Qu6eEm2/view?usp=sharing
 
-Link to Video:
+- Link to Video:
 
 https://drive.google.com/file/d/1KJif8Puc5gWkvUaW0djKuKHS1Qu6eEm2/view?usp=sharing
