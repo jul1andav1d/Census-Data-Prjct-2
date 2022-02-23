@@ -28,3 +28,7 @@ https://drive.google.com/file/d/1KJif8Puc5gWkvUaW0djKuKHS1Qu6eEm2/view?usp=shari
 - Link to Video:
 
 https://drive.google.com/file/d/1KJif8Puc5gWkvUaW0djKuKHS1Qu6eEm2/view?usp=sharing
+
+# PROJECT 2 PART 4
+
+For part 4 of the project, I tried two models and tuned the hyperparameters for both to optimize the performance. I evaluated the model performance with a Classification Report and Confusion Matrix. And then based on all these processing steps, chose a model with a justified decision.
