@@ -32,3 +32,12 @@ https://drive.google.com/file/d/1KJif8Puc5gWkvUaW0djKuKHS1Qu6eEm2/view?usp=shari
 # PROJECT 2 PART 4
 
 For part 4 of my second project, I tried two models and tuned the hyperparameters for both to optimize the performance. I evaluated the model performance with a Classification Report and Confusion Matrix. And then based on all these processing steps, chose a model with a justified decision.
+
+# PROJECT 2 PART 5
+
+For this final part of the Project, I created a few visualizations to better understand my data. These visualizations were included in a PowerPoint presentation linked below.
+This presentation includes background information on my dataset, information for the modeling techniques used, and final recommendations and Conclusions.
+
+- Link to Slides:
+
+https://docs.google.com/presentation/d/1vDHECYT3Hk5whu5yQjKamS2UY4B-xk0w/edit?usp=sharing&ouid=116482715544373686095&rtpof=true&sd=true
